@@ -2,3 +2,5 @@
 ## [参考网站：https://www.qianduan.net/99-beautiful-free-signin-login-and-signup-psd-designs/](https://www.qianduan.net/99-beautiful-free-signin-login-and-signup-psd-designs/)
 > 成品图如下：
 ![登录控件设计](https://raw.githubusercontent.com/EasonQXF/Interface_design/master/images/paper-login-form.png)
+> 一个图标控件：
+![图标控件设计](https://raw.githubusercontent.com/EasonQXF/Interface_design/master/images/tubiao.png)
