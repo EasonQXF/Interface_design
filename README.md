@@ -3,3 +3,5 @@
 
 ## Week01
 > [week01链接:https://easonqxf.github.io/Interface_design/week01](https://easonqxf.github.io/Interface_design/week01)
+> [week02链接:https://easonqxf.github.io/Interface_design/week02](https://easonqxf.github.io/Interface_design/week02)
+
