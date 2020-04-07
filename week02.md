@@ -29,6 +29,7 @@
 ## 预防用户出错
 > 通过合理的设计实现预防用户出错，比好的出错提示更有效。
 > 在用户第一次进入App时，界面会出现这些提示字眼，预防用户出错。
+![MOO](https://raw.githubusercontent.com/EasonQXF/Interface_design/master/images/MOO6.jpg)
 ![MOO](https://raw.githubusercontent.com/EasonQXF/Interface_design/master/images/MOO2.jpg)
 ## 帮助用户识别而非回忆
 > 减少用户记忆负担，操作对象和选项明确可见；用户无需记住具体内容便可以流畅的重复之前的操作；帮助信息容易获取。
